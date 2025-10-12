@@ -36,20 +36,21 @@ It is the look-back resistance across the load terminals when all the sources ar
 
 To measure IL
 
-<img width="469" height="143" alt="image" src="https://github.com/user-attachments/assets/a89d6d2b-c628-434d-961f-3ae03e200d8e" />
+![WhatsApp Image 2025-10-12 at 14 35 45_f9c0d17c](https://github.com/user-attachments/assets/5ecdbf41-bade-4715-b63c-7acc11d781dd)
 
 To measure RTh or RN
 
-<img width="360" height="139" alt="image" src="https://github.com/user-attachments/assets/4a0cd230-205b-48ad-ab08-f359aaf192a6" />
+
+![WhatsApp Image 2025-10-12 at 14 35 57_f0829936](https://github.com/user-attachments/assets/c08eba7a-cc85-4da5-9cb1-3c0657230eba)
 
 To measure VTh or Voc
 
-<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/b0bb48a9-90fe-4979-a3fe-4e41c67239ce" />
+![WhatsApp Image 2025-10-12 at 14 35 57_41a96cdc](https://github.com/user-attachments/assets/c070dc36-8f6f-4527-94fb-b4e45b031ad3)
+
 
 Thevenin’s equivalent circuit
 
-<img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
-
+![WhatsApp Image 2025-10-12 at 14 35 57_607bc4f3](https://github.com/user-attachments/assets/eb875f18-c06c-4fea-a896-a2ca2cc03cc6)
 
 **PROCEDURE:**
 
